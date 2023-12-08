@@ -1,0 +1,55 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "message": "some message",
+      "phoneNumber": "0789431549",
+      "date": "2019-05-29T00:00:00.000Z"
+    }
+  ],
+
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$bWfE3ylFJa5kF3CfH8ViwuOZFCIYCQLUF77FgiQml2bC.8iuJL2ty",
+      "phoneNumber": "0789431549",
+      "id": 2
+    },
+    {
+      "email":"serena@gmail.com",
+      "password":"$2a$10$zghVwt9axmMwu9zM7LveheNfR9VRpZtFzlvEQNLbTCmUNpNS43yUy",
+      "phoneNumber": "0784381529",
+      "id":3
+    }
+  ]
+}

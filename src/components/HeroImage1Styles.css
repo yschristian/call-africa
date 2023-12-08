@@ -1,0 +1,19 @@
+.hero-img {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 60vh;
+  position: relative;
+}
+
+.hero-img {
+  content: "";
+  /* background: url(""); */
+}
+.heading {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
